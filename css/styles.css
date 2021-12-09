@@ -1,18 +1,18 @@
 body {
   color: #40514e;
-  margin: 0%;
+  margin: 0px;
   text-align: center;
   font-family: "Merriweather", serif;
   line-height: 2;
 }
 .profile-picture {
   border-radius: 50%;
-  margin: 05% auto 03%;
-  height: 15%;
-  width: 15%;
+  margin: 50px auto 10px;
+  height: 200px;
+  width: 200px;
 }
 .heading {
-  margin: 5% auto 0% auto;
+  margin: 50px auto 0px auto;
   font-family: "Sacramento", cursive;
   font-size: 4.625rem;
   color: #66bfbf;
@@ -27,12 +27,12 @@ body {
 .heading3 {
   margin-top: 5%;
   line-height: 3;
-  margin: 5%;
+  margin: 50px;
 }
 h1 {
-  margin: 50% auto 0% auto;
+  margin: 50px auto 0px auto;
   font-family: "Sacramento", cursive;
-  font-size: 4.625rem;
+  font-size: 5.625rem;
   color: #66bfbf;
   line-height: 1;
 }
@@ -50,8 +50,8 @@ h3 {
 .top {
   background-color: #eaf6f6;
   position: relative;
-  padding: 10%;
-  padding-bottom: 0%;
+  padding: 100px;
+  padding-bottom: 0px;
 }
 .bottom-cloud {
   position: absolute;
@@ -67,20 +67,20 @@ a {
 }
 .skill-row {
   width: 50%;
-  margin: 10% auto 10% auto;
+  margin: 100px auto 100px auto;
   line-height: 2;
   text-align: left;
 }
 .pic1 {
   width: 25%;
   float: left;
-  margin-right: 5%;
+  margin-right: 30px;
   border-radius: 50%;
 }
 .pic2 {
   width: 25%;
   float: right;
-  margin-left: 5%;
+  margin-left: 30px;
   border-radius: 50%;
 }
 .text1 {
@@ -93,30 +93,30 @@ hr {
   border-style: none;
   margin-top: 5%;
   border-top: dotted;
-  width: 7%;
+  width: 100px;
   border-width: 11px;
   border-color: #eaf6f6;
 }
 .bottom-container {
   background-color: #66bfbf;
-  padding-top: 2%;
-  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-bottom: 10px;
   margin-top: 5%;
 }
 .copy-right {
   color: #eaf6f6;
   text-align: center;
   font-size: 0.5rem;
-  margin-bottom: 2%;
+  margin-bottom: 30px;
 }
 .footer-link1 {
-  margin-bottom: 20%;
+  margin-bottom: 20px;
   line-height: 4;
   color: #11999e;
-  padding-right: 10%;
+  padding-right: 50px;
 }
 .footer-link2 {
-  margin-bottom: 30%;
+  margin-bottom: 30px;
   line-height: 4;
   color: #11999e;
 }
